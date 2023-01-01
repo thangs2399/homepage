@@ -414,7 +414,7 @@
             }
 
             .right-about {
-                margin-top: 2rem;
+                margin: 2rem auto;
                 padding-bottom: 5rem;
                 grid-row: 2;
 
@@ -586,9 +586,9 @@
             }
 
             .right-about {
-                margin-top: 2rem;
                 padding-bottom: 5rem;
                 grid-row: 2;
+                margin: 2rem auto;
 
                 .about-items {
                     grid-template-columns: 1fr;
@@ -770,10 +770,10 @@
             }
 
             .right-about {
-                margin-top: 2rem;
                 padding-bottom: 5rem;
                 grid-row: 2;
-                margin-left: 0;
+                margin: 2rem auto;
+
                 .about-items {
                     grid-template-columns: 1fr;
                     grid-gap: 1.2rem;
