@@ -409,7 +409,7 @@ section {
   color: var(--color-white-0);
 }
 .about-container .right-about .exps-container #exps .exp .exp-description h3 {
-  margin-bottom: 2px;
+  margin-bottom: 0.8rem;
 }
 .about-container .right-about .exps-container #exps .exp .exp-description p {
   font-size: 1.2rem;
