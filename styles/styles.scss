@@ -435,7 +435,7 @@ section {
                             }
 
                             .exp-timeline {
-                                font-size: 0.9rem;
+                                font-size: 0.5rem;
                                 border-radius: 20px;
                                 background-color: var(--color-timeline-bg);;
                                 color: var(--color-white-0);
@@ -452,11 +452,12 @@ section {
                         color: var(--color-white-0);
                         
                         h3 {
+                            font-size: 1rem;
                             margin-bottom: 0.8rem;
                         }
 
                         p {
-                            font-size: 1.2rem;
+                            font-size: 0.8rem;
                         }
                     }
                 }

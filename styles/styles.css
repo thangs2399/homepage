@@ -397,7 +397,7 @@ section {
   margin-right: 1rem;
 }
 .about-container .right-about .exps-container #exps .exp .exp-header .exp-icon .exp-timeline {
-  font-size: 0.9rem;
+  font-size: 0.5rem;
   border-radius: 20px;
   background-color: var(--color-timeline-bg);
   color: var(--color-white-0);
@@ -409,10 +409,11 @@ section {
   color: var(--color-white-0);
 }
 .about-container .right-about .exps-container #exps .exp .exp-description h3 {
+  font-size: 1rem;
   margin-bottom: 0.8rem;
 }
 .about-container .right-about .exps-container #exps .exp .exp-description p {
-  font-size: 1.2rem;
+  font-size: 0.8rem;
 }
 .about-container .right-about .exps-container:hover {
   cursor: default;
